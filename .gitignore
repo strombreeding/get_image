@@ -1,1 +1,12 @@
 lib
+
+# imgs 디렉토리 내의 모든 파일과 디렉토리를 무시
+imgs/*
+
+# imgs/pass 디렉토리와 그 하위 모든 파일 및 디렉토리를 추적
+# !imgs/pass/
+!imgs/pass/*
+
+# imgs/nonPass 디렉토리와 그 하위 모든 파일 및 디렉토리를 추적
+# !imgs/nonPass/
+!imgs/nonPass/*
