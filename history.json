@@ -1,4 +1,34 @@
 {
-    "pass": [],
-    "nonPass": []
+    "pass": [
+        {
+            "count": 48,
+            "search": "\uc778\ubb3c \uc0ac\uc9c4"
+        },
+        {
+            "count": 48,
+            "search": "\ub3c5\uc0ac\uc9c4"
+        },
+        {
+            "count": 48,
+            "search": "\uc2e4\ub8e8\uc5e3 \uc0ac\uc9c4"
+        }
+    ],
+    "nonPass": [
+        {
+            "count": 20,
+            "search": "animal"
+        },
+        {
+            "count": 47,
+            "search": "bottle"
+        },
+        {
+            "count": 47,
+            "search": "console.log"
+        },
+        {
+            "count": 48,
+            "search": "disenyCharacters alone"
+        }
+    ]
 }
